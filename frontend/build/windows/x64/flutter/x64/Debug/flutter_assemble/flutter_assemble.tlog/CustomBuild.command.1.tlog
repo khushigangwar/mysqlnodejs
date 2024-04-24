@@ -1,0 +1,28 @@
+^C:\USERS\VIDEALPHA\DESKTOP\FLUTTER\MYSQLNODEJS\FRONTEND\BUILD\WINDOWS\X64\CMAKEFILES\A935D997440DA3BA9D2D94AF9C040B2C\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\VideAlpha\fvm\versions\3.16.9 PROJECT_DIR=C:\Users\VideAlpha\Desktop\flutter\mysqlnodejs\frontend FLUTTER_ROOT=C:\Users\VideAlpha\fvm\versions\3.16.9 FLUTTER_EPHEMERAL_DIR=C:\Users\VideAlpha\Desktop\flutter\mysqlnodejs\frontend\windows\flutter\ephemeral PROJECT_DIR=C:\Users\VideAlpha\Desktop\flutter\mysqlnodejs\frontend FLUTTER_TARGET=C:\Users\VideAlpha\Desktop\flutter\mysqlnodejs\frontend\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9mNDBlOTc2YmVkZmY1N2U2OWUxYjNkODlhN2MyYTNjNjE3YTAzZGFkLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\VideAlpha\Desktop\flutter\mysqlnodejs\frontend\.dart_tool\package_config.json C:/Users/VideAlpha/fvm/versions/3.16.9/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VIDEALPHA\DESKTOP\FLUTTER\MYSQLNODEJS\FRONTEND\BUILD\WINDOWS\X64\CMAKEFILES\7B5CD06FDFCEF06ACB87DFFA2A01368A\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VIDEALPHA\DESKTOP\FLUTTER\MYSQLNODEJS\FRONTEND\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/VideAlpha/Desktop/flutter/mysqlnodejs/frontend/windows -BC:/Users/VideAlpha/Desktop/flutter/mysqlnodejs/frontend/build/windows/x64 --check-stamp-file C:/Users/VideAlpha/Desktop/flutter/mysqlnodejs/frontend/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

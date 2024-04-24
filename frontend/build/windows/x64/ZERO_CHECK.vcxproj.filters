@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\VideAlpha\Desktop\flutter\mysqlnodejs\frontend\build\windows\x64\CMakeFiles\2afa32f1f79875fd84f5a749afa7bdc8\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{85EDB636-C7EA-394E-9638-E3F535645890}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

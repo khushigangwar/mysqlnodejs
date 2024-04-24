@@ -1,0 +1,1 @@
+ C:\\Users\\VideAlpha\\Desktop\\flutter\\mysqlnodejs\\frontend\\.dart_tool\\flutter_build\\bb9d2c111243d859ce93ebe8a761ff56\\native_assets.yaml: 
