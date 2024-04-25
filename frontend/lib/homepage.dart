@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage> {
 
   static Future<List<Students>> getStudent() async {
     http.Response response =
-        await http.get(Uri.parse("http://10.0.2.2:3000/allstudents"));
+        await http.get(Uri.parse("http://localhost:3000/connect"));
     final data = jsonDecode(response.body);
     return data.map<Students>((json) => Students.fromJson(json)).toList();
   }
